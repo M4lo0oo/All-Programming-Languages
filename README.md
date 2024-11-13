@@ -1,193 +1,77 @@
-# Programming Languages and Frameworks Reference
+# Programming Languages Reference
 
-Welcome to the **Programming Languages and Frameworks Reference** repository! This repository aims to serve as a resource and showcase for various programming languages and their popular frameworks.
+Welcome to the **Programming Languages Reference** repository! This repository aims to serve as a resource and showcase for various programming languages.
 
 ## Table of Contents
 
-### A
 - **Ada**
-- **Agda**
 - **ALGOL**
+- **Algol 68**
+- **Amber**
 - **APL**
 - **Assembly**
-
-### B
+- **Awk**
 - **Bash**
 - **BCPL**
+- **Bash**
 - **Ballerina**
-- **Brainfuck**
-
-### C
+- **BlitzMax**
+- **Bourne Shell**
 - **C**
 - **C#**
-  - .NET
-  - ASP.NET
 - **C++**
-  - Qt
-  - Boost
 - **Clojure**
-  - Ring
-  - Re-frame
 - **COBOL**
 - **Crystal**
-- **CSS**
-  - Bootstrap
-  - Tailwind CSS
-  - Bulma
-
-### D
+- **Curl**
 - **D**
 - **Dart**
-  - Flutter
-
-### E
+- **Eiffel**
 - **Elixir**
-  - Phoenix
 - **Elm**
 - **Erlang**
-  - OTP
-
-### F
 - **F#**
 - **Forth**
 - **Fortran**
-
-### G
 - **Go**
-  - Gin
-  - Echo
 - **Groovy**
-  - Grails
-
-### H
 - **Hack**
 - **Haskell**
-  - Yesod
-  - Scotty
 - **HTML**
-
-### I
-- **Idris**
+- **IDL**
 - **Io**
-
-### J
+- **J**
 - **Java**
-  - Spring
-  - Hibernate
-  - Struts
 - **JavaScript**
-  - Node.js
-  - Express.js
-  - React
-  - Vue.js
-  - Angular
-  - Svelte
-  - Next.js
-  - Nuxt.js
-  - Gatsby
-
-### J (suite)
 - **Julia**
-  - Flux.jl (machine learning)
-  - Genie (web)
-
-### K
 - **Kotlin**
-  - Ktor
-  - Spring (Kotlin support)
-  - Android SDK
-
-### L
 - **Lisp**
-  - Common Lisp
-  - Scheme
 - **Lua**
-  - Love2D
-  - Corona SDK
-
-### M
+- **Mathematica**
 - **MATLAB**
-- **Mercury**
-
-### N
 - **Nim**
-
-### O
 - **Objective-C**
 - **OCaml**
-  - Reason
-  - MirageOS
-
-### P
 - **Pascal**
-  - Delphi
 - **Perl**
 - **PHP**
-  - Laravel
-  - Symfony
-  - CodeIgniter
-  - Zend
-  - Yii
 - **Prolog**
-  - SWI-Prolog
-
-### Python
 - **Python**
-  - Django
-  - Flask
-  - FastAPI
-  - Pyramid
-  - Tornado
-  - Pytorch (ML)
-  - TensorFlow (ML)
-  - Keras (ML)
-
-### R
 - **R**
-  - Shiny (Web apps)
-  - Tidyverse (Data science)
-
-### Ruby
 - **Ruby**
-  - Ruby on Rails
-  - Sinatra
-  - Hanami
-
-### Rust
 - **Rust**
-  - Rocket
-  - Actix
-  - Yew
-
-### S
 - **Scala**
-  - Play
-  - Akka
+- **Scheme**
 - **Shell**
-  - Bash
-  - Zsh
-  - Fish
-- **Solidity** (Smart contracts)
+- **Smalltalk**
+- **Solidity**
 - **Swift**
-  - Vapor
-  - SwiftUI
-
-### T
 - **TypeScript**
-  - NestJS
-  - Deno
-  - Blitz.js
-
-### V
 - **V**
 - **Vala**
-- **VBA**
-
-### W
-- **WebAssembly**
-
-### Z
+- **Visual Basic**
 - **Zig**
+- **ZPL**
 
 ## Contributing
 
